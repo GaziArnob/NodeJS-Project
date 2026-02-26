@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "genre": "Sci-Fi",
+    "rating": 8.8
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "genre": "Drama",
+    "rating": 9.3
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "genre": "Action",
+    "rating": 9.0
+  },
+  {
+    "id": 4,
+    "title": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "genre": "Drama",
+    "rating": 8.8
+  },
+  {
+    "id": 5,
+    "title": "The Matrix",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "genre": "Sci-Fi",
+    "rating": 8.7
+  },
+  {
+    "id": 6,
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "genre": "Sci-Fi",
+    "rating": 8.6
+  },
+  {
+    "id": 7,
+    "title": "Parasite",
+    "director": "Bong Joon-ho",
+    "genre": "Thriller",
+    "rating": 8.6
+  },
+  {
+    "id": 8,
+    "title": "Avengers: Endgame",
+    "director": "Anthony Russo, Joe Russo",
+    "genre": "Action",
+    "rating": 8.4
+  },
+  {
+    "id": 9,
+    "title": "Gladiator",
+    "director": "Ridley Scott",
+    "genre": "Action",
+    "rating": 8.5
+  },
+  {
+    "id": 10,
+    "title": "The Lion King",
+    "director": "Roger Allers, Rob Minkoff",
+    "genre": "Animation",
+    "rating": 8.5
+  }
+]
