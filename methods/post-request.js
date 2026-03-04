@@ -1,3 +1,4 @@
+
 const crypto = require("crypto");
 const requestBodyparser = require("../util/body-parser");
 
@@ -20,4 +21,4 @@ module.exports = async (req, res) => {
             );
         }
     }
-};
+}
