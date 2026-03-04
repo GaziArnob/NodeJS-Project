@@ -4,7 +4,7 @@ module.exports = async (request) => {
             let body = '';
 
             request.on('data', (chunk) => {
-                body += chunk.toString();
+                body += chunk;
             });
 
             request.on('end', () => {
