@@ -26,6 +26,7 @@ module.exports = (req, res) => {
                 message: "No movie found with given ID"
             }));
         }
+
         res.end();
 
     } else {
